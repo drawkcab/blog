@@ -1,3 +1,5 @@
 == README
 
-* Fix markdown with Redcarpet and pygment 
+* Fix markdown with Redcarpet and pygment
+* Verify disqus
+* Remove filler text
