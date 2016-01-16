@@ -94,6 +94,17 @@ hr {
   margin: 2rem 0;
 }
 
+#headshot {
+  height: 10em;
+  width: 7em;
+  float: right;
+  clear: right;
+}
+
+#textwrap {
+  float: left;
+}
+
 #main_navigation {
   padding: 2.5em 5%;
   border-bottom: solid $border;
